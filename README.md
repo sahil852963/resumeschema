@@ -22,3 +22,7 @@ A powerful, client-side resume builder designed to create professional resumes w
 
 2. **Open the project**:
    Simply open `index.html` in your preferred web browser. No build step, Node.js, or backend server is required.
+
+## Author
+
+- [My Portfolio](https://sahilsharmablogs.in/)
